@@ -76,12 +76,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | -  | ------------------------- |
 |  Kau Ceti | Tau Ceti |
 | 40 Keridani | 40 Eridani |  
-  
-**Kerbol Outer Planets**
-|  System | Inspiration |
-| -  | ------------------------- |
-| Kerbol Outer Planets | Our solar system |  
-
+    
 ---
 
 |<img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> 
@@ -107,11 +102,6 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | - | - |
 |  Kau Ceti | A small system with a large green planet. |
 | 40 Keridani | A small K-type star with a massive blue planet. |  
-
-**Kerbol Outer Planets**  
-|  System  | Overview |
-| - | - |
-| Kerbol Outer Planets | A unique set of outer planets that are nothing<br/> like ours.|  
 
 ---
 
@@ -144,7 +134,7 @@ Happy exploring!
 
 ## Roadmap  
 The future for Stellar Systems will be an ever-changing and creative mod.  
-I have not set any end date for Stellar Systems as it may never end, or it may in 2-3 years' time.  
+I have not set any end date for Stellar Systems as it may never end, or it may in 2-3 years time.  
 
 The next update, V3.0.0, will be the biggest update to Stellar Systems and any planet pack in general.
 
@@ -153,9 +143,10 @@ All in-development and planned systems and expansions.
 | In-Dev | Planned |
 | - | - |
 | Parallax Continued support. | | 
+| Kau Ceti. A small system with 5-6 rocky planets. | |
 | Kulran AB. A small binary brown dwarf system, hosting many carbon-rich planets. | | 
-| 40 Keridani. A large 3-star system, spanning multiple different alien environments. | Kau Ceti. A small system with 5-6 rocky planets. |
-| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakes. |
+| 40 Keridani. A large 3-star system, spanning multiple different alien environments. | |
+| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | |
 
 ###### I have a lot of free time, so each update can contain a vast amount of content while keeping the same quality as other planet packs.
 
