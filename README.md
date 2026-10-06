@@ -150,12 +150,16 @@ The next update, V3.0.0, will be the biggest update to Stellar Systems and any p
 
 ### In-Dev and Planned Systems  
 All in-development and planned systems and expansions.  
+
+Most Systems have been made; it's only small tweaks that are left to do.  
 | In-Dev | Planned |
 | - | - |
 | Parallax Continued support. | | 
+| Kau Ceti. A small system with 5-6 rocky planets. | |
+| Amaterasu. A suggestion system made by @AcidicPancakes. | |
 | Kulran AB. A small binary brown dwarf system, hosting many carbon-rich planets. | | 
-| 40 Keridani. A large 3-star system, spanning multiple different alien environments. | Kau Ceti. A small system with 5-6 rocky planets. |
-| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | Amaterasu. A suggestion system made by @AcidicPancakes. |
+| 40 Keridani. A large 3-star system, spanning multiple different alien environments. | |
+| Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. | |
 
 ###### I have a lot of free time, so each update can contain a vast amount of content while keeping the same quality as other planet packs.
 
@@ -228,3 +232,5 @@ From the bottom of my heart, my love goes out to you and to the entire Kopernicu
 
 **Stellar Systems is for the bold.**
 </div>  
+
+###### Some bs I wrote here is corny af gah dam
