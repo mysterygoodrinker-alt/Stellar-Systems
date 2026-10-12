@@ -194,6 +194,8 @@ Most Systems have been made; it's only small tweaks that are left to do.
 ## License  
 Stellar Systems uses the **CC BY-NC-ND 4.0** license to protect all original, handmade assets, textures, and configs.  
 
+> To read more, check [License and Development](https://github.com/tohkm22-del/Stellar-Systems/wiki/License-and-Development)  
+
 <details>
 <summary><strong>What is allowed</strong></summary>
 
