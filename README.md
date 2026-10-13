@@ -230,6 +230,8 @@ From the bottom of my heart, my love goes out to you and to the entire Kopernicu
 > ### AI Notice
 >No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. AI such as Claude, Copilot, or generative fills such as Photoshop were **not** used.  
 
+> Some content shown here are only present in the unreleased V3.0.0 version
+
 ---
 
 <div align="center">  
