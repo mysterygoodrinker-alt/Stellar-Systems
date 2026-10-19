@@ -4,6 +4,8 @@
 
 ---  
 
+>It is best to ignore this part of the github page since it references content that is in the unreleased V3.0.0 version, once V3.0.0 comes out, all disclaimers will be removed
+
 <div align="center">
 
 ###### ALWAYS CHANGING · ALWAYS FRESH · ALWAYS NEW
@@ -45,8 +47,9 @@ Stellar Systems is created around having:
 · Immersive stellar environments  
 · Creative ideas and information behind planets and moons  
 · Detailed planetary textures  
+· Immersive Parallax Continued support
 
-###### Parallax Continued is not supported due to limitations with my PC.
+> Parallax Continued is NOT present in V2.0.2 
 
 ---
 
@@ -57,30 +60,33 @@ Stellar Systems is created around having:
 ---
 
 ## What's Included?
-Stellar Systems is a modular planet pack that allows you to choose how big your interstellar universe is. Stellar Systems includes 8 systems with over 40 planets, offering a vast amount of content to explore.
+Stellar Systems is a modular planet pack that allows you to choose how big your interstellar universe is. Stellar Systems includes 8 systems with over 40 planets, offering a vast amount of content to explore.  
+
+> Kau Ceti, 40 Keridani, Blikk, and the Swarch Cluster are NOT released  
 
 ### Alien systems
 |  System | Inspiration |
 | - | - |
+| Kulran | Luhman 16 | 
 |  Rast | No analogue |  
 | Xeroon | Alpha Centauri |
 | Orrion | No analogue |
 | Noren | Upsilon Andromedae |
+| Kau Ceti | Tau Ceti | 
 | Keppe | Trappist 1 |
+| 40 Keridani | 40 Eridani | 
+| Soven | No analogue | 
+| Blikk | No analogue |
 | Swarch | No analogue | 
+| Swarch Cluster | No analogue | 
 
 ### Stunning expansions
 
 **Project Hail Mary Expansion**
 |  System | Inspiration |
 | -  | ------------------------- |
-|  Kau Ceti | Tau Ceti |
-| 40 Keridani | 40 Eridani |  
-  
-**Kerbol Outer Planets**
-|  System | Inspiration |
-| -  | ------------------------- |
-| Kerbol Outer Planets | Our solar system |  
+|  Adrian | Movie version Adrian |
+| Erid | Movie version Erid |  
 
 ---
 
@@ -95,23 +101,24 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 
 |  System  | Overview |
 | - | - |
+| Kulran | A binary brown dwarf system orbiting within 1 LY of Kerbol |
 | Rast | A small, spread-out star system, a good place for your first<br/> interstellar missions. |
 | Xeroon | A large binary star system, hosting multiple unique planets. |
-| Orrion | A small pink brown dwarf, with a small number of planets. |
-| Noren | A small system made up entirely of gas giants. |
-| Keppe | A tightly packed red dwarf system, with a plethora of planets. |
+| Orrion | A small pink brown dwarf, with a small number of planets. |  
+| Noren | A small system made up entirely of gas giants. |  
+| Kau Ceti | A small system consisting of 6 planets, 2 with life! |  
+| Keppe | A tightly packed red dwarf system, with a plethora of planets. |  
+| 40 Keridani | A gigantic 3 star system with planets teeming with life. |  
+| Soven | A large, 10 planet system made of only gas giants. |  
+| Blikk | A undead, fast spinning pulsar with 3 dead planets. |  
 | Swarch | A gigantic black hole that may have a planet. |  
+| Swarch Cluster | A cluster of 5 stars, ranging from K-types to O-types |
 
 **Project Hail Mary Expansion**  
 |  System  | Overview |
 | - | - |
-|  Kau Ceti | A small system with a large green planet. |
-| 40 Keridani | A small K-type star with a massive blue planet. |  
-
-**Kerbol Outer Planets**  
-|  System  | Overview |
-| - | - |
-| Kerbol Outer Planets | A unique set of outer planets that are nothing<br/> like ours.|  
+|  Adrian | A large, swirly green planet. |
+| Erid | A massive blue planet that may have life. |  
 
 ---
 
@@ -154,13 +161,14 @@ All in-development and planned systems and expansions.
 | In-Dev | Planned |
 | - | - |
 | Parallax Continued support. | Extended Kerbol system with planets nothing like ours | 
-| Amaterasu. A suggestion system made by @AcidicPancakes. | Kerbol revamp, a redo of all planets in the Kerbol system |  
+| Blikk, a fast spinning pulsar with 3 dead planets. | Kerbol revamp, a redo of all planets in the Kerbol system |  
 
 Most Systems have been made; it's only small tweaks that are left to do.  
 
 | Finished 
 | - |
 | Kau Ceti. A small system with 5-6 rocky planets. |
+| Swarch Cluster. |
 | Kulran AB. A small binary brown dwarf system, hosting many carbon-rich planets. | 
 | 40 Keridani. A large 3-star system, spanning multiple different alien environments. |
 | Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. |
@@ -171,7 +179,7 @@ Most Systems have been made; it's only small tweaks that are left to do.
 
 | May be implemented | May not be implemented |
 |-|-|
-| A small pulsar with small irradiated planets |  A K-type star with 1-2 planets, one of them being a ultra-habitable mega-Kerbin |  
+| Nothing | Nothing |  
 
 ###### Experimental means ideas that I may add, but have not been worked on whatsoever.
 
@@ -217,12 +225,13 @@ The CC BY-NC-ND 4.0 license permits you to share Stellar Systems with anyone, as
 
 ## Thanks to  
 Thanks to the numerous people who have helped me on my journey from making my first planets to today, since October of 2025.  
-Specific people I want to send a thank-you to are:  
+Specific people and servers I want to send a thank-you to are:  
 
 · Serbhit, for writing the entirety of Noren's science definitions.  
 · Ratchet, the Stellar Systems graphic designer, who is the one who made the Stellar Systems logo and many system maps.  
+· The entire Kopernicus discord server, they all helped me along with getting issues fixed and helping me learn. 
 
-From the bottom of my heart, my love goes out to you and to the entire Kopernicus Discord server, because without you, I would not be here.
+With out you guys, you would not be installing this mod.
 
 ---
 
@@ -238,7 +247,8 @@ From the bottom of my heart, my love goes out to you and to the entire Kopernicu
     
 ###### From exploring Kerbin and setting foot on the Mun to exploring interstellar worlds and setting foot on alien worlds.  
 
-**Stellar Systems is for the bold.**
-</div>  
+**Stellar Systems is for the bold.**  
 
-###### Some bs I wrote here is corny af gah dam
+###### Some bs I wrote here is corny af gah dam  
+
+</div>  
