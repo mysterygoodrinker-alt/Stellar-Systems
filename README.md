@@ -4,7 +4,7 @@
 
 ---  
 
->It is best to ignore this part of the github page since it references content that is in the unreleased V3.0.0 version, once V3.0.0 comes out, all disclaimers will be removed
+>It is best to ignore this part of the GitHub page since it references content that is in the unreleased V3.0.0 version. Once V3.0.0 comes out, all disclaimers will be removed
 
 <div align="center">
 
@@ -108,9 +108,9 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | Noren | A small system made up entirely of gas giants. |  
 | Kau Ceti | A small system consisting of 6 planets, 2 with life! |  
 | Keppe | A tightly packed red dwarf system, with a plethora of planets. |  
-| 40 Keridani | A gigantic 3 star system with planets teeming with life. |  
-| Soven | A large, 10 planet system made of only gas giants. |  
-| Blikk | A undead, fast spinning pulsar with 3 dead planets. |  
+| 40 Keridani | A gigantic 3-star system with planets teeming with life. |  
+| Soven | A large, 10-planet system made of only gas giants. |  
+| Blikk | A undead, fast-spinning pulsar with 3 dead planets. |  
 | Swarch | A gigantic black hole that may have a planet. |  
 | Swarch Cluster | A cluster of 5 stars, ranging from K-types to O-types |
 
@@ -151,7 +151,7 @@ Happy exploring!
 
 ## Roadmap  
 The future for Stellar Systems will be an ever-changing and creative mod.  
-I have not set any end date for Stellar Systems as it may never end, or it may in 2-3 years' time.  
+I have not set any end date for Stellar Systems, as it may never end, or it may in 2-3 years' time.  
 
 The next update, V3.0.0, will be the biggest update to Stellar Systems and any planet pack in general.
 
@@ -161,14 +161,14 @@ All in-development and planned systems and expansions.
 | In-Dev | Planned |
 | - | - |
 | Parallax Continued support. | Extended Kerbol system with planets nothing like ours | 
-| Blikk, a fast spinning pulsar with 3 dead planets. | Kerbol revamp, a redo of all planets in the Kerbol system |  
+| Blikk, a fast-spinning pulsar with 3 dead planets. | Kerbol revamp, a redo of all planets in the Kerbol system |  
 
 Most Systems have been made; it's only small tweaks that are left to do.  
 
 | Finished 
 | - |
 | Kau Ceti. A small system with 5-6 rocky planets. |
-| Swarch Cluster. |
+| Swarch Cluster, a cluster of 5 stars orbiting a supermassive black hole. |
 | Kulran AB. A small binary brown dwarf system, hosting many carbon-rich planets. | 
 | 40 Keridani. A large 3-star system, spanning multiple different alien environments. |
 | Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. |
@@ -229,9 +229,9 @@ Specific people and servers I want to send a thank-you to are:
 
 · Serbhit, for writing the entirety of Noren's science definitions.  
 · Ratchet, the Stellar Systems graphic designer, who is the one who made the Stellar Systems logo and many system maps.  
-· The entire Kopernicus discord server, they all helped me along with getting issues fixed and helping me learn. 
+· The entire Kopernicus Discord server, they all helped me along with getting issues fixed and helping me learn. 
 
-With out you guys, you would not be installing this mod.
+Without you guys, you would not be installing this mod.
 
 ---
 
