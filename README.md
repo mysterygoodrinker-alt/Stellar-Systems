@@ -18,9 +18,7 @@
     <img src="https://img.shields.io/badge/License-CC%20BY%20NC%20ND-E24329?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=181717" alt="CC-BY-NC-ND">
     <a href="https://github.com/tohkm22-del/Stellar-Systems/releases">
     <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads">  
-    <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/V2.0.2">
-    <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/V2.0.2/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Downloads">  
-    
+        
 </p>
 
 <div align="center">
