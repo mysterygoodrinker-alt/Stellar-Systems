@@ -72,7 +72,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 |  Rast | No analogue |  
 | Xeroon | Alpha Centauri |
 | Orrion | No analogue |
-| Noren | Upsilon Andromedae |
+| Noren | Epsilon Eridani |
 | Kau Ceti | Tau Ceti | 
 | Keppe | Trappist 1 |
 | 40 Keridani | 40 Eridani | 
