@@ -17,7 +17,10 @@
         <a href="github.com/tohkm22-del/Stellar-Systems#license">
     <img src="https://img.shields.io/badge/License-CC%20BY%20NC%20ND-E24329?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=181717" alt="CC-BY-NC-ND">
     <a href="https://github.com/tohkm22-del/Stellar-Systems/releases">
-    <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads"> 
+    <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Total Downloads">  
+    <a href="https://github.com/tohkm22-del/Stellar-Systems/releases/V2.0.2">
+    <img src="https://img.shields.io/github/downloads/tohkm22-del/Stellar-Systems/V2.0.2/total?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=0B9E9A" alt="Downloads">  
+    
 </p>
 
 <div align="center">
@@ -76,7 +79,7 @@ Stellar Systems is a modular planet pack that allows you to choose how big your 
 | Keppe | Trappist 1 |
 | 40 Keridani | 40 Eridani | 
 | Soven | No analogue | 
-| Blikk | No analogue |
+| Blikk | PSR B1257+12 (Lich) |
 | Swarch | No analogue | 
 | Swarch Cluster | No analogue | 
 
@@ -212,9 +215,9 @@ The CC BY-NC-ND 4.0 license permits you to share Stellar Systems with anyone, as
 
 | Allowed: | Not Allowed: |
 |-|-|
-| Share **with attribution** given | **Present** Stellar Systems **as your own work** |
-| Create videos, streams, screenshots, etc |  **Use** assets from Stellar Systems **elsewhere without permission** |
-| Make **private modifications** | Share **modified versions** **without permission** |  
+| Share with attribution given | Present Stellar Systems as your own work |
+| Create videos, streams, screenshots, etc |  Use assets from Stellar Systems elsewhere without permission |
+| Make private modifications | Share modified versions without permission |  
 >Assets downloaded or bought from third-party sources follow the original author's license.
 
 </details>
@@ -237,7 +240,7 @@ Without you guys, you would not be installing this mod.
 
 > [!IMPORTANT]
 > ### AI Notice
->No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. AI such as Claude, Copilot, or generative fills such as Photoshop were **not** used.
+>No Generative AI was used in any stage of the process, from config making to texture producing; absolutely no AI was used in any capacity. AI such as Claude, Copilot, or Photoshops generative fill were **not** used.
 
 > Some content shown here is only present in the unreleased V3.0.0 version
 
