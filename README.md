@@ -162,17 +162,18 @@ All in-development and planned systems and expansions.
 | In-Dev | Planned |
 | - | - |
 | Parallax Continued support. | Extended Kerbol system with planets nothing like ours | 
-| Blikk, a fast-spinning pulsar with 3 dead planets. | Kerbol revamp, a redo of all planets in the Kerbol system |  
+|| Kerbol revamp, a redo of all planets in the Kerbol system |  
 
 Most Systems have been made; it's only small tweaks that are left to do.  
 
 | Finished 
 | - |
-| Kau Ceti. A small system with 5-6 rocky planets. |
-| Swarch Cluster, a cluster of 5 stars orbiting a supermassive black hole. |
 | Kulran AB. A small binary brown dwarf system, hosting many carbon-rich planets. | 
+| Kau Ceti. A small system with 5-6 rocky planets. |
 | 40 Keridani. A large 3-star system, spanning multiple different alien environments. |
 | Soven. A G-type subgiant star that is about to kill all 10 of its gas giant planets. |
+| Blikk, a fast-spinning pulsar with 4 dead planets. |
+| Swarch Cluster, a cluster of 5 stars orbiting a supermassive black hole. |
 
 ###### I have a lot of free time, so each update can contain a vast amount of content while keeping the same quality as other planet packs.
 
