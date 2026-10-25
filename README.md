@@ -162,7 +162,6 @@ All in-development and planned systems and expansions.
 | In-Dev | Planned |
 | - | - |
 | Parallax Continued support. | Extended Kerbol system with planets nothing like ours | 
-|| Kerbol revamp, a redo of all planets in the Kerbol system |  
 
 Most Systems have been made; it's only small tweaks that are left to do.  
 
@@ -179,9 +178,9 @@ Most Systems have been made; it's only small tweaks that are left to do.
 
 ### Experimental ideas
 
-| May be implemented | May not be implemented |
-|-|-|
-| Nothing | Nothing |  
+| May be implemented 
+|-|
+| Nothing |
 
 ###### Experimental means ideas that I may add, but have not been worked on whatsoever.
 
