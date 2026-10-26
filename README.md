@@ -163,7 +163,7 @@ All in-development and planned systems and expansions.
 | - | - |
 | Parallax Continued support. | Extended Kerbol system with planets nothing like ours | 
 
-Most Systems have been made; it's only small tweaks that are left to do.  
+All Systems have been made; it's only small tweaks and config writing that are left to do.  
 
 | Finished 
 | - |
